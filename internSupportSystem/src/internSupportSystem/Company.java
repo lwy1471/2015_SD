@@ -1,6 +1,8 @@
 package internSupportSystem;
 
 public class Company {
+	
+	//rlaudrl tlqkf
 	private String company_name; // 기업명
 	private String occupation; // 직종
 	private String company_introduction;// 회사소개
